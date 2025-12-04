@@ -92,10 +92,10 @@ const tutorials = [
     {
         id: 9,
         title: "Empty Slot 1",
-        description: "Click to add your next tutorial or resource here.",
+        description: "devops",
         tag: "Custom",
-        url: "https://example.com",
-        visible: false
+        url: "https://github.com/PranuPranav97/90DaysOfDevOps/blob/main/Days/day11.md",
+        visible: true
     },
     {
         id: 10,
