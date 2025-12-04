@@ -91,7 +91,7 @@ const tutorials = [
     // Hidden containers for future additions - set visible: false to hide them
     {
         id: 9,
-        title: "Empty Slot 1",
+        title: "90 day devops",
         description: "devops",
         tag: "Custom",
         url: "https://github.com/PranuPranav97/90DaysOfDevOps/blob/main/Days/day11.md",
